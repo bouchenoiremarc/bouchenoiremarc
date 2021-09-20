@@ -28,9 +28,11 @@
 
 **[💿 `itunes-store-api`](https://github.com/bouchenoiremarc/itunes-store-api)** — <small>Query Apple store catalogs using the iTunes Search API.</small>
 
-## Configurations
+## Personal
 
 **[☂️ `@bouchenoiremarc/eslint-config`](https://github.com/bouchenoiremarc/eslint-config)** — <small>My personal ESLint configurations.</small>
+
+**[👋 `bouchenoiremarc`](https://github.com/bouchenoiremarc/bouchenoiremarc)** — <small>My personal README.md.</small>
 
 ## Archived
 
