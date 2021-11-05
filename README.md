@@ -34,6 +34,8 @@
 
 **[🍭 `@bouchenoiremarc/prettier-config`](https://github.com/bouchenoiremarc/prettier-config)** — <small>My personal Prettier configuration.</small>
 
+**[🎀 `@bouchenoiremarc/stylelint-config`](https://github.com/bouchenoiremarc/stylelint-config)** — <small>My personal Stylelint configurations.</small>
+
 **[👋 `bouchenoiremarc`](https://github.com/bouchenoiremarc/bouchenoiremarc)** — <small>My personal README.md.</small>
 
 ## Archived
