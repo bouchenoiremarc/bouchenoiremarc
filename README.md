@@ -4,9 +4,13 @@
 
 ## Utilities
 
-**[🎨 `create-canvas-context`](https://github.com/bouchenoiremarc/create-canvas-context)** — <small>Create a canvas and get a rendering context from it.</small>
-
 **[🖊️ `typometer`](https://github.com/bouchenoiremarc/typometer)** — <small>Measure text using the Canvas API.</small>
+
+**[📏 `dimmmensions`](https://github.com/bouchenoiremarc/dimmmensions)** — <small>A collection of dimensions from iOS.</small>
+
+**[🔣 `symbolist`](https://github.com/bouchenoiremarc/symbolist)** — <small>A collection of every symbol from SF Symbols.</small>
+
+**[🎨 `create-canvas-context`](https://github.com/bouchenoiremarc/create-canvas-context)** — <small>Create a canvas and get a rendering context from it.</small>
 
 ## React
 
@@ -21,10 +25,6 @@
 **[🥒 `tsatsiki`](https://github.com/bouchenoiremarc/tsatsiki)** — <small>Run `tsc` with a configuration and files.</small>
 
 ## Miscellaneous
-
-**[📏 `dimmmensions`](https://github.com/bouchenoiremarc/dimmmensions)** — <small>A collection of dimensions from iOS.</small>
-
-**[🔣 `symbolist`](https://github.com/bouchenoiremarc/symbolist)** — <small>A collection of every symbol from SF Symbols.</small>
 
 **[💿 `itunes-store-api`](https://github.com/bouchenoiremarc/itunes-store-api)** — <small>Query Apple store catalogs using the iTunes Search API.</small>
 
