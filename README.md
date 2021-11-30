@@ -30,11 +30,11 @@
 
 ## Personal
 
-**[☂️ `@bouchenoiremarc/eslint-config`](https://github.com/bouchenoiremarc/eslint-config)** — <small>My personal ESLint configurations.</small>
+**[☂️ `@marcbouchenoire/eslint-config`](https://github.com/bouchenoiremarc/eslint-config)** — <small>My personal ESLint configurations.</small>
 
-**[🍭 `@bouchenoiremarc/prettier-config`](https://github.com/bouchenoiremarc/prettier-config)** — <small>My personal Prettier configuration.</small>
+**[🍭 `@marcbouchenoire/prettier-config`](https://github.com/bouchenoiremarc/prettier-config)** — <small>My personal Prettier configuration.</small>
 
-**[🎀 `@bouchenoiremarc/stylelint-config`](https://github.com/bouchenoiremarc/stylelint-config)** — <small>My personal Stylelint configurations.</small>
+**[🎀 `@marcbouchenoire/stylelint-config`](https://github.com/bouchenoiremarc/stylelint-config)** — <small>My personal Stylelint configurations.</small>
 
 **[👋 `bouchenoiremarc`](https://github.com/bouchenoiremarc/bouchenoiremarc)** — <small>My personal README.md.</small>
 
