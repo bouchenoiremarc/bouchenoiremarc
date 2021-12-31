@@ -4,7 +4,7 @@
 
 ## Utilities
 
-**[🖊️ `typometer`](https://github.com/marcbouchenoire/typometer)** — <small>Measure text using the Canvas API.</small>
+**[🖊️ `typometer`](https://github.com/marcbouchenoire/typometer)** — <small>Measure text asynchronously.</small>
 
 **[📏 `dimmmensions`](https://github.com/marcbouchenoire/dimmmensions)** — <small>A collection of dimensions from iOS.</small>
 
