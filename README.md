@@ -1,6 +1,6 @@
-> _Despite everything, it’s still you._
+# Marc Bouchenoire
 
----
+Designing and building _delightful_ products, interfaces, and interactions.
 
 ## Utilities
 
