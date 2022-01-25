@@ -30,6 +30,8 @@ Designing and building _delightful_ products, interfaces, and interactions.
 
 ## Personal
 
+**[🤹 `marcbouchenoire.com`](https://github.com/marcbouchenoire/marcbouchenoire.com)** — <small>My personal website and portfolio.</small>
+
 **[☂️ `@marcbouchenoire/eslint-config`](https://github.com/marcbouchenoire/eslint-config)** — <small>My personal ESLint configurations.</small>
 
 **[🍭 `@marcbouchenoire/prettier-config`](https://github.com/marcbouchenoire/prettier-config)** — <small>My personal Prettier configuration.</small>
