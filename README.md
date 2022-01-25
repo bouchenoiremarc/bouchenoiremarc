@@ -6,7 +6,7 @@ Designing and building _delightful_ products, interfaces, and interactions.
 
 **[🖊️ `typometer`](https://github.com/marcbouchenoire/typometer)** — <small>Measure text asynchronously.</small>
 
-**[📏 `dimmmensions`](https://github.com/marcbouchenoire/dimmmensions)** — <small>A collection of dimensions from iOS.</small>
+**[📏 `dimmmensions`](https://github.com/marcbouchenoire/dimmmensions)** — <small>A collection of dimensions from iOS and iPadOS devices.</small>
 
 **[🔣 `symbolist`](https://github.com/marcbouchenoire/symbolist)** — <small>A collection of every symbol from SF Symbols.</small>
 
