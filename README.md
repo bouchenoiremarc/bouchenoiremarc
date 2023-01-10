@@ -18,11 +18,4 @@ I ~occasionally~ [listen to things](https://www.last.fm/user/marcbouchenoire) an
     <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/widgets/film.svg?dark">
     <img alt="The latest film I watched." src="https://marcbouchenoire.com/api/widgets/film.svg" height="80">
   </picture>
-</p>
-
----
-
-<sub>❝❞</sub>  
-<sub>_Here we are,_</sub>  
-<sub>_Stuck by this river,_</sub>  
-<sub>_You and I._</sub>  
+</p> 
