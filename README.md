@@ -8,14 +8,14 @@ I ~occasionally~ [listen to things](https://www.last.fm/user/marcbouchenoire) an
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/widgets/song.svg?dark">
-    <img alt="The latest song I listened to." src="https://marcbouchenoire.com/api/widgets/song.svg" height="80">
+    <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/widgets/song?dark">
+    <img alt="The latest song I listened to." src="https://marcbouchenoire.com/api/widgets/song" height="80">
   </picture>
 </p>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/widgets/film.svg?dark">
-    <img alt="The latest film I watched." src="https://marcbouchenoire.com/api/widgets/film.svg" height="80">
+    <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/widgets/film?dark">
+    <img alt="The latest film I watched." src="https://marcbouchenoire.com/api/widgets/film" height="80">
   </picture>
 </p> 
