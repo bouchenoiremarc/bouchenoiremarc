@@ -4,7 +4,7 @@ Designing and building _delightful_ products, interfaces, and interactions.
 
 ## Activity
 
-I ~occasionally~ [listen to things](https://www.last.fm/user/marcbouchenoire) and [watch films](https://letterboxd.com/marcbouchenoire/).
+What I’ve recently [listened to](https://www.last.fm/user/marcbouchenoire) and [watched](https://letterboxd.com/marcbouchenoire/).
 
 <p>
   <picture>
