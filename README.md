@@ -1,6 +1,6 @@
 # Marc Bouchenoire
 
-Designing and building _delightful_ products, interfaces, and interactions.
+Designing and building _delightful_ products, interactions, and APIs.
 
 ## Activity
 
