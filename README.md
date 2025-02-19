@@ -8,14 +8,14 @@ What I’ve recently [listened to](https://www.last.fm/user/marcbouchenoire) and
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/widgets/song?dark">
-    <img alt="The latest song I listened to." src="https://marcbouchenoire.com/api/widgets/song" height="80">
+    <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/activity/song?dark">
+    <img alt="The latest song I listened to." src="https://marcbouchenoire.com/api/activity/song" height="80">
   </picture>
 </p>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/widgets/film?dark">
-    <img alt="The latest film I watched." src="https://marcbouchenoire.com/api/widgets/film" height="80">
+    <source media="(prefers-color-scheme: dark)" srcset="https://marcbouchenoire.com/api/activity/film?dark">
+    <img alt="The latest film I watched." src="https://marcbouchenoire.com/api/activity/film" height="80">
   </picture>
 </p> 
